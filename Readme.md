@@ -1,7 +1,5 @@
 # Spring Boot React OAuth2 Social Login Demo
 
-
-
 ## Setting up the Backend Server (spring-social)
 
 + **Create MySQL database**
